@@ -1,4 +1,4 @@
 files:
   - source: messages.csv
     translation: messages_%two_letters_code%.csv
-    scheme: 'source_phrase,translation,source_or_translation,context'
+    scheme: 'source_phrase,translation,max_length,context'
